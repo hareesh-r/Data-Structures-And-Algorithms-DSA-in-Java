@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/* Methosd Used Sieve Of Eratosthenes  */
+/* Method Used Sieve Of Eratosthenes  */
 public class PrimeNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
